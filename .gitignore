@@ -1,0 +1,15 @@
+# Vivado generated temporary files
+*.jou
+*.log
+*.str
+*.dmp
+*.tmp
+
+# Vivado project caches and hardware manager files
+**/*.cache/
+**/*.hw/
+**/*.ip_user_files/
+**/*.sim/
+**/*.runs/
+
+# Keep the project file (.xpr), sources (.v), constraints (.xdc), and documentation
